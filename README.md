@@ -71,7 +71,7 @@ Connectivity tested via ICMP ping across VLANs:
 1. Install **[Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer)** (v8.0+ recommended)
 2. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+   git clone https://github.com/Erenkyz/Enterprise-Network-Design.git
    ```
 3. Open `Monitoring_of_Computer_System_Security_project.pkt` in Packet Tracer
 
